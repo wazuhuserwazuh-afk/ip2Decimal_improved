@@ -4,14 +4,6 @@ Un script inspirado en II104567, ususario de THL
 
 
 
-
-
-¡Claro que sí\! Aquí tienes un archivo **README** profesional y completo para tu *script* de conversión de IP a entero, basado en la versión mejorada que utiliza la librería `ipaddress`.
-
------
-
-# 📄 README: ip2num\_improved.py
-
 ## Conversor de Dirección IP (IPv4) a Número Entero (32-bit)
 
 `ip2num_improved.py` es un *script* de Python diseñado para convertir una dirección **IPv4** de su formato estándar de puntos y decimales (`A.B.C.D`) a su representación numérica entera única de **32 bits**. Esta conversión es esencial para almacenar, indexar o realizar cálculos de subredes eficientes en entornos de red y bases de datos.
